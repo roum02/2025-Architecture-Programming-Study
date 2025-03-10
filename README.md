@@ -1,9 +1,15 @@
 # 📚 2025 공개 상반기 스터디 : 한 권으로 읽는 컴퓨터 구조와 프로그래밍
+[<img src="https://img.shields.io/badge/%F0%9F%8C%B8%20Since-2025.03.10-FFB6C1" alt="Since" style="max-width: 100%;">](https://img.shields.io/badge/github-GIVEME--STAR-red)
+
+> [🏷️ 출석, 보증금 현황](attendance/attendance_records.md), [📂 스터디 자료 모음](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues?q=is%3Aissue)
+
 <img src="https://velog.velcdn.com/images/prettylee620/post/82a6046f-46b8-490c-badc-0562fff4814c/image.png" width="400">
 
 ## 🎯 개요
-### 💻 대상
-- CS 공부에 관심 있는 누구나
+
+> **같이 나아가는 스터디 🌱**
+
+### 💻 스터디원
 - **스터디 리더** : 이금주
 - **참여자:** 김채정, 최서인, 이로움, 박상연, 함예준, 장유정
 
@@ -56,11 +62,41 @@
 | **패스권** | 개인당 **2개** 부여 | 담당자(스터디 리더)에게 불참 사유 공유 필수 |
 
 ---
+## 📃 스터디 자료
 
-## 📃 자료 공유 방식
+### 📃 자료 공유 방식
 - **깃허브 이슈 활용:**
   - 주차별 학습 자료를 깃허브 이슈에 발표 자료 링크로 제출
   - 노션의 경우, 웹 게시 링크로 제출 가능
+ 
+### 📂 스터디 자료 모음
+<details>
+<summary> 🧑🏻‍💻 이금주</summary>
+</details>
+
+<details>
+<summary> 🧑🏻‍💻 이로움</summary>
+</details>
+
+<details>
+<summary> 🧑🏻‍💻 장유정</summary>
+</details>
+
+<details>
+<summary> 🧑🏻‍💻 김채정</summary>
+</details>
+
+<details>
+<summary> 🧑🏻‍💻 함예준</summary>
+</details>
+
+<details>
+<summary> 🧑🏻‍💻 최서인</summary>
+</details>
+
+<details>
+<summary> 🧑🏻‍💻 박상연</summary>
+</details>
 
 ---
 
@@ -81,7 +117,9 @@
 | **11주차** | 5/22 (목) | **13장 컴퓨터 보안 :** 487–533쪽 (47쪽)   | 온라인 |
 | **12주차** | 5/29 (목) | **14장 세상을 바꾸는 기계 지능 - 15장 훌륭한 프로그래머가 되기 위한 팁과 경험담 :** 535–613쪽 (79쪽)  | 온라인 |
 
----
 
-**스터디 내용을 공유하며, 같이 나아가는 스터디 🌱**
+
+
+
+
 
