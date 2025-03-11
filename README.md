@@ -1,5 +1,5 @@
 # 📚 2025 공개 상반기 스터디 : 한 권으로 읽는 컴퓨터 구조와 프로그래밍
-[<img src="https://img.shields.io/badge/%F0%9F%8C%B8%20Since-2025.03.10-FFB6C1" alt="Since" style="max-width: 100%;">](https://img.shields.io/badge/github-GIVEME--STAR-red)
+[<img src="https://img.shields.io/badge/%F0%9F%8C%B8%20Since-2025.03.13-FFB6C1" alt="Since" style="max-width: 100%;">](https://img.shields.io/badge/github-GIVEME--STAR-red)
 
 > [🏷️ 출석, 보증금 현황](attendance/attendance_records.md), [📂 스터디 자료 모음](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues?q=is%3Aissue)
 
