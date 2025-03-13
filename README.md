@@ -72,22 +72,37 @@
 ### 📂 스터디 자료 모음
 <details>
 <summary> 🧑🏻‍💻 이금주</summary>
+  
+  - [1주차 자료](https://mellona-log.gitbook.io/log/cs/undefined-1/deepdive-1)
+    
 </details>
 
 <details>
 <summary> 🧑🏻‍💻 이로움</summary>
+  
+  - [1주차 자료](roum/1주차.md)
+  
 </details>
 
 <details>
 <summary> 🧑🏻‍💻 장유정</summary>
+  
+  - [1주차 자료](https://github.com/im-gnar/study/blob/master/onebookcs/chapter1.md)
+
 </details>
 
 <details>
 <summary> 🧑🏻‍💻 김채정</summary>
+  
+  - [1주차 자료](https://velog.io/@blcklamb/%ED%95%9C-%EA%B6%8C%EC%9C%BC%EB%A1%9C-%EC%9D%BD%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-1%EC%9E%A5-%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%82%B4%EB%B6%80%EC%9D%98-%EC%96%B8%EC%96%B4-%EC%B2%B4%EA%B3%84)
+
 </details>
 
 <details>
 <summary> 🧑🏻‍💻 함예준</summary>
+  
+  - [1주차 자료](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_1/)
+
 </details>
 
 <details>
@@ -96,6 +111,9 @@
 
 <details>
 <summary> 🧑🏻‍💻 박상연</summary>
+  
+  - [1주차 자료](https://sang989.notion.site/1-51-90-40-1b48a4f192a28074961fe127183caea2)
+    
 </details>
 
 ---
