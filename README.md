@@ -18,7 +18,7 @@
 - [📃 스터디 자료](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study?tab=readme-ov-file#-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9E%90%EB%A3%8C)  
   - [📃 자료 공유 방식](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study?tab=readme-ov-file#-%EC%9E%90%EB%A3%8C-%EA%B3%B5%EC%9C%A0-%EB%B0%A9%EC%8B%9D)  
   - [📂 스터디 자료 모음](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study?tab=readme-ov-file#-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9D%8C)  
-- [🗓️ 주차별 자료 모음 및 예상 진도표](#-%ec%a3%bc%ec%b0%a8%eb%b3%84-%ec%9e%90%eb%a3%8c-%eb%aa%a8%ec%9d%8c-%eb%b0%8f-%ec%98%88%ec%83%81-%ec%a7%84%eb%8f%84%ed%91%9c)  
+- [🗓️ 주차별 자료 모음 및 예상 진도표](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study?tab=readme-ov-file#%EF%B8%8F-%EC%A3%BC%EC%B0%A8%EB%B3%84-%EC%9E%90%EB%A3%8C-%EB%AA%A8%EC%9E%84-%EB%B0%8F-%EC%98%88%EC%83%81-%EC%A7%84%EB%8F%84%ED%91%9C)  
 
 ---
 
