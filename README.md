@@ -92,6 +92,10 @@
   
   - [1주차 자료](https://mellona-log.gitbook.io/log/cs/undefined-1/deepdive-1)
   - [2주차 자료](https://mellona-log.gitbook.io/log/cs/undefined-1/deepdive-2)
+  - 3주차 자료
+    - [3장](https://mellona-log.gitbook.io/log/cs/undefined-1/3)
+    - [4장](https://mellona-log.gitbook.io/log/cs/undefined-1/4)
+    - [딥다이브](https://mellona-log.gitbook.io/log/cs/undefined-1/3-4-deepdive-5)
     
 </details>
 
@@ -100,6 +104,7 @@
   
   - [1주차 자료](roum/1주차.md)
   - [2주차 자료](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/2%EC%A3%BC%EC%B0%A8.md)
+  - [3주차 자료](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/3%EC%A3%BC%EC%B0%A8.md)
   
 </details>
 
@@ -116,6 +121,7 @@
   
   - [1주차 자료](https://velog.io/@blcklamb/%ED%95%9C-%EA%B6%8C%EC%9C%BC%EB%A1%9C-%EC%9D%BD%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-1%EC%9E%A5-%EC%BB%B4%ED%93%A8%ED%84%B0-%EB%82%B4%EB%B6%80%EC%9D%98-%EC%96%B8%EC%96%B4-%EC%B2%B4%EA%B3%84)
   - [2주차 자료](https://velog.io/@blcklamb/%ED%95%9C-%EA%B6%8C%EC%9C%BC%EB%A1%9C-%EC%9D%BD%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-2%EC%9E%A5-%EC%A0%84%EC%9E%90-%ED%9A%8C%EB%A1%9C%EC%9D%98-%EC%A1%B0%ED%95%A9-%EB%85%BC%EB%A6%AC)
+  - [3주차 자료](https://blcklamb.notion.site/3-4-1c39e0c67e6c8050929ff7006ea77b26)
 
 </details>
 
@@ -124,11 +130,19 @@
   
   - [1주차 자료](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_1/)
   - [2주차 자료](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_2/)
+  - 3주차 자료
+    - [3장](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_3/)
+    - [4장](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_4/)
+    - [딥다이브](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_Deep_Dive/)
 
 </details>
 
 <details>
 <summary> 🧑🏻‍💻 최서인</summary>
+ - 3주차 자료
+    - [3장](https://running-seoin.notion.site/3-1c31dbe6f8738099b6c3d9a39a5d3187)
+    - [4장](https://running-seoin.notion.site/4-1c31dbe6f873807180e9c5602659fee2)
+  
 </details>
 
 <details>
@@ -136,6 +150,7 @@
   
   - [1주차 자료](https://sang989.notion.site/1-51-90-40-1b48a4f192a28074961fe127183caea2)
   - [2주차 자료](https://sang989.notion.site/2-91-134-44-1bc8a4f192a280119cdafce02639755b)
+  - [3주차 자료](https://sang989.notion.site/3-4-135-192-57-1c38a4f192a280a396b9ea21e9c5a019)
     
 </details>
 
@@ -147,7 +162,7 @@
 | **OT** | 3/9 (일) | 오프라인 OT (필참) | 17~18시 예정 | 없음 |
 | **1주차** | 3/13 (목) | **1장 컴퓨터 내부의 언어 체계 :** 51–90쪽 (40쪽) | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/1) |
 | **2주차** | 3/20 (목) | **2장 전자 회로의 조합 논리 :** 91–134쪽 (44쪽)  | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/3) |
-| **3주차** | 3/27 (목) | **3장 메모리와 디스크의 핵심 - 4장 컴퓨터 내부 구조 :** 135–192쪽 (57쪽) | 온라인 | [🔗 링크](#) |
+| **3주차** | 3/27 (목) | **3장 메모리와 디스크의 핵심 - 4장 컴퓨터 내부 구조 :** 135–192쪽 (57쪽) | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/4) |
 | **4주차** | 4/3 (목) | **5장 컴퓨터 아키텍처와 운영체제 :** 193–220쪽 (28쪽) | 온라인 | [🔗 링크](#) |
 | **5주차** | 4/10 (목) | **6장 입출력과 네트워킹 :** 221–271쪽 (51쪽)  | 온라인 | [🔗 링크](#) |
 | **6주차** | 4/17 (목) | **7장 데이터 구조와 처리 :** 273–318쪽 (46쪽)  | 온라인 | [🔗 링크](#) |
