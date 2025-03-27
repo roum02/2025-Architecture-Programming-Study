@@ -139,7 +139,8 @@
 
 <details>
 <summary> 🧑🏻‍💻 최서인</summary>
- - 3주차 자료
+
+  - 3주차 자료
     - [3장](https://running-seoin.notion.site/3-1c31dbe6f8738099b6c3d9a39a5d3187)
     - [4장](https://running-seoin.notion.site/4-1c31dbe6f873807180e9c5602659fee2)
   
