@@ -107,7 +107,11 @@
   -  [이더넷, MAC 주소, 그리고 허브와 스위치, 라우터 이야기](https://velog.io/@prettylee620/%EC%9D%B4%EB%8D%94%EB%84%B7-MAC-%EC%A3%BC%EC%86%8C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%97%88%EB%B8%8C%EC%99%80-%EC%8A%A4%EC%9C%84%EC%B9%98-%EB%9D%BC%EC%9A%B0%ED%84%B0-%EC%9D%B4%EC%95%BC%EA%B8%B0)
   - [패킷 교환 방식, 회선 교환 방식](https://velog.io/@prettylee620/%ED%8C%A8%ED%82%B7-%EA%B5%90%ED%99%98-%EB%B0%A9%EC%8B%9D-%ED%9A%8C%EC%84%A0-%EA%B5%90%ED%99%98-%EB%B0%A9%EC%8B%9D)   
 - [6주차 딥다이브이자 전체적인 정리](https://velog.io/@prettylee620/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%B2%98%EB%A6%AC-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%97%90%EC%84%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%9E%98-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B3%A0-%EC%B2%98%EB%A6%AC%ED%95%A0%EA%B9%8C)
-- [7주차 자료](https://mellona-log.gitbook.io/log/cs/undefined-1/undefined-1) 
+- [7주차 자료](https://mellona-log.gitbook.io/log/cs/undefined-1/undefined-1)
+- 8주차 자료
+  - [웹 브라우저 - 시대에 따른 정리](https://mellona-log.gitbook.io/log/cs/undefined-1/undefined-2)
+  - [애플리케이션 프로그래밍과 시스템 프로그래밍](https://mellona-log.gitbook.io/log/cs/undefined-1/undefined-3)
+  - [컴퓨터 구조 9-10장 DeepDive 지식](https://mellona-log.gitbook.io/log/cs/undefined-1/9-10-deepdive)
 </details>
 
 <details>
@@ -120,6 +124,7 @@
   - [5주차 자료](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/5%EC%A3%BC%EC%B0%A8.md)
   - [6주차 자료 - 7장](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/6%EC%A3%BC%EC%B0%A8.md)
   - [7주차 자료](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/7%EC%A3%BC%EC%B0%A8.md)
+  - [8주차 자료](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/8%EC%A3%BC%EC%B0%A8.md)
   
 </details>
 
@@ -143,6 +148,7 @@
   - [4주차 자료 : 요다](https://velog.io/@blcklamb/computer-architecture-os)
   - [5주차 자료](https://blcklamb.notion.site/6-1cf9e0c67e6c8056991ad052824a392a?pvs=4)
   - [6주차 자료](https://blcklamb.notion.site/7-feat-any-unix-epoch-GC-1d49e0c67e6c803f848efb41c9650ddb?pvs=4)
+  - [8주차 자료](https://blcklamb.notion.site/9-1ed9e0c67e6c8037af77fd21807bac30?pvs=4)
 
 </details>
 
@@ -167,6 +173,10 @@
   - 7주차 자료
     - [내용 정리](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_8/)
     - [딥다이브](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_Deep_Dive/)
+  - 8주차 자료
+    - [9장 정리](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_9/)
+    - [10장 정리](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_10/)
+    - [딥다이브](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_Deep_Dive/#8%EC%A3%BC%EC%B0%A8)
 
 </details>
 
@@ -178,6 +188,7 @@
     - [4장](https://running-seoin.notion.site/4-1c31dbe6f873807180e9c5602659fee2)
   - [5주차 자료](https://www.notion.so/running-seoin/6-1d11dbe6f87380adb11fc54289c5ade7)
   - [7주차 자료](https://running-seoin.notion.site/8-1df1dbe6f873807c938edec4053b91ae)
+  - [8주차 자료](https://running-seoin.notion.site/9-10-1ed1dbe6f87380e998fefd611ddbfa6f?pvs=4)
   
 </details>
 
@@ -207,7 +218,7 @@
 | **5주차** | 4/10 (목) | **6장 입출력과 네트워킹 :** 221–271쪽 (51쪽)  | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/7) |
 | **6주차** | 4/17 (목) | **7장 데이터 구조와 처리 :** 273–318쪽 (46쪽)  | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/9) |
 | **7주차** | 4/24 (목) | **8장 프로그래밍 언어 처리 :** 319–344쪽 (26쪽) | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/12) |
-| **8주차** | 5/8 (목) | **9장 웹 브라우저 - 10장 애플리케이션과 프로그래밍 :** 345–390쪽 (46쪽) | 온라인 | [🔗 링크](#) |
+| **8주차** | 5/8 (목) | **9장 웹 브라우저 - 10장 애플리케이션과 프로그래밍 :** 345–390쪽 (46쪽) | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/13) |
 | **9주차** | 5/15 (목) | **10장 애플리케이션과 프로그래밍 - 11장 성능향상을 위한 알고리즘 기법 :** 391–440쪽 (50쪽)   | 온라인 | [🔗 링크](#) |
 | **10주차** |  5/22 (목)  | **11장 성능향상을 위한 알고리즘 기법 - 12장 병렬성과 비동기성 :** 441–486쪽 (46쪽)   | 온라인 | [🔗 링크](#) |
 | **11주차** |  5/29 (목) | **13장 컴퓨터 보안 :** 487–533쪽 (47쪽)   | 온라인 | [🔗 링크](#) |
