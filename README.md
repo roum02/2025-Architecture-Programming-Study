@@ -112,6 +112,10 @@
   - [웹 브라우저 - 시대에 따른 정리](https://mellona-log.gitbook.io/log/cs/undefined-1/undefined-2)
   - [애플리케이션 프로그래밍과 시스템 프로그래밍](https://mellona-log.gitbook.io/log/cs/undefined-1/undefined-3)
   - [컴퓨터 구조 9-10장 DeepDive 지식](https://mellona-log.gitbook.io/log/cs/undefined-1/9-10-deepdive)
+- 9주차 자료
+  - [10장 전체정리](https://mellona-log.gitbook.io/log/cs/undefined-1/undefined-3)
+  - [11장 일부정리](https://mellona-log.gitbook.io/log/cs/undefined-1/11)
+  - [11장 딥다이브](https://mellona-log.gitbook.io/log/cs/undefined-1/9)
 </details>
 
 <details>
@@ -125,6 +129,7 @@
   - [6주차 자료 - 7장](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/6%EC%A3%BC%EC%B0%A8.md)
   - [7주차 자료](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/7%EC%A3%BC%EC%B0%A8.md)
   - [8주차 자료](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/8%EC%A3%BC%EC%B0%A8.md)
+  - [9주차 자료 - 10장, 11장](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/9%EC%A3%BC%EC%B0%A8.md)
   
 </details>
 
@@ -135,7 +140,8 @@
   - [2주차 자료](https://github.com/im-gnar/study/blob/7677cd5fd1d446a9c7227522a09c2e7b80ba8c37/onebookcs/chapter2.md)
   - [4주차 자료](https://github.com/im-gnar/study/blob/master/onebookcs/chapter5.md)
   - [5주차 자료](https://github.com/im-gnar/study/blob/master/onebookcs/chapter6.md)
-  - [6주차 자료 - 7장](https://github.com/im-gnar/study/blob/master/onebookcs/chapter7.md) 
+  - [6주차 자료 - 7장](https://github.com/im-gnar/study/blob/master/onebookcs/chapter7.md)
+  - [9주차 자료 - 10장](https://github.com/im-gnar/study/blob/master/onebookcs/chapter10.md)
 
 </details>
 
@@ -177,6 +183,9 @@
     - [9장 정리](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_9/)
     - [10장 정리](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_10/)
     - [딥다이브](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_Deep_Dive/#8%EC%A3%BC%EC%B0%A8)
+  - 9주차 자료
+    - [10장](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_10/)
+    - [11장](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_11/) 
 
 </details>
 
@@ -189,6 +198,9 @@
   - [5주차 자료](https://www.notion.so/running-seoin/6-1d11dbe6f87380adb11fc54289c5ade7)
   - [7주차 자료](https://running-seoin.notion.site/8-1df1dbe6f873807c938edec4053b91ae)
   - [8주차 자료](https://running-seoin.notion.site/9-10-1ed1dbe6f87380e998fefd611ddbfa6f?pvs=4)
+  - 9주차 자료
+    - [10장](https://running-seoin.notion.site/9-10-1ed1dbe6f87380e998fefd611ddbfa6f?pvs=4)
+    - [11장](https://running-seoin.notion.site/11-1f41dbe6f87380818f0ec014c5327ec9?pvs=4)
   
 </details>
 
@@ -202,6 +214,7 @@
   - [5주차 자료 - 6장 딥다이브](https://sang989.notion.site/6-221-271-51-1d18a4f192a280848478d05375cc9ec8?pvs=4)
   - [6주차 자료 - 7장 딥다이브](https://sang989.notion.site/7-273-318-46-1d88a4f192a28065b456de9d3615dffd?pvs=4)
   - [7주차 자료 - 8장 딥다이브](https://sang989.notion.site/8-319-344-26-1df8a4f192a280bc94b6c647cc806dca?pvs=4)
+  - [9주차 자료 - 10~11장](https://sang989.notion.site/10-11-1f48a4f192a280c79276e58c84d43d7f?pvs=4)
     
 </details>
 
@@ -219,7 +232,7 @@
 | **6주차** | 4/17 (목) | **7장 데이터 구조와 처리 :** 273–318쪽 (46쪽)  | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/9) |
 | **7주차** | 4/24 (목) | **8장 프로그래밍 언어 처리 :** 319–344쪽 (26쪽) | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/12) |
 | **8주차** | 5/8 (목) | **9장 웹 브라우저 - 10장 애플리케이션과 프로그래밍 :** 345–390쪽 (46쪽) | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/13) |
-| **9주차** | 5/15 (목) | **10장 애플리케이션과 프로그래밍 - 11장 성능향상을 위한 알고리즘 기법 :** 391–440쪽 (50쪽)   | 온라인 | [🔗 링크](#) |
+| **9주차** | 5/15 (목) | **10장 애플리케이션과 프로그래밍 - 11장 성능향상을 위한 알고리즘 기법 :** 391–440쪽 (50쪽)   | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/15) |
 | **10주차** |  5/22 (목)  | **11장 성능향상을 위한 알고리즘 기법 - 12장 병렬성과 비동기성 :** 441–486쪽 (46쪽)   | 온라인 | [🔗 링크](#) |
 | **11주차** |  5/29 (목) | **13장 컴퓨터 보안 :** 487–533쪽 (47쪽)   | 온라인 | [🔗 링크](#) |
 | **12주차** | 6/5 (목) | **14장 세상을 바꾸는 기계 지능 - 15장 훌륭한 프로그래머가 되기 위한 팁과 경험담 :** 535–613쪽 (79쪽)  | 온라인 | [🔗 링크](#) |
