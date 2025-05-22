@@ -116,6 +116,7 @@
   - [10장 전체정리](https://mellona-log.gitbook.io/log/cs/undefined-1/undefined-3)
   - [11장 일부정리](https://mellona-log.gitbook.io/log/cs/undefined-1/11)
   - [11장 딥다이브](https://mellona-log.gitbook.io/log/cs/undefined-1/9)
+- [10주차 전반적인 정리](https://velog.io/@prettylee620/%EB%B3%91%EB%A0%AC%EC%84%B1%EA%B3%BC-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%84%B1-%EC%BB%B4%ED%93%A8%ED%84%B0%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%9C-%EB%B2%88%EC%97%90-%EB%A7%8E%EC%9D%80-%EC%9D%BC%EC%9D%84-%ED%95%98%EB%8A%94%EA%B0%80)
 </details>
 
 <details>
@@ -130,6 +131,7 @@
   - [7주차 자료](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/7%EC%A3%BC%EC%B0%A8.md)
   - [8주차 자료](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/8%EC%A3%BC%EC%B0%A8.md)
   - [9주차 자료 - 10장, 11장](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/9%EC%A3%BC%EC%B0%A8.md)
+  - [10주차 자료](https://github.com/roum02/2025-Architecture-Programming-Study/blob/main/roum/10%EC%A3%BC%EC%B0%A8.md)
   
 </details>
 
@@ -142,6 +144,7 @@
   - [5주차 자료](https://github.com/im-gnar/study/blob/master/onebookcs/chapter6.md)
   - [6주차 자료 - 7장](https://github.com/im-gnar/study/blob/master/onebookcs/chapter7.md)
   - [9주차 자료 - 10장](https://github.com/im-gnar/study/blob/master/onebookcs/chapter10.md)
+  - [10주차 자료](https://github.com/im-gnar/study/blob/master/onebookcs/chapter12.md)
 
 </details>
 
@@ -155,6 +158,7 @@
   - [5주차 자료](https://blcklamb.notion.site/6-1cf9e0c67e6c8056991ad052824a392a?pvs=4)
   - [6주차 자료](https://blcklamb.notion.site/7-feat-any-unix-epoch-GC-1d49e0c67e6c803f848efb41c9650ddb?pvs=4)
   - [8주차 자료](https://blcklamb.notion.site/9-1ed9e0c67e6c8037af77fd21807bac30?pvs=4)
+  - [10주차 자료](https://blcklamb.notion.site/9-1f79e0c67e6c80718be3ecfaebdb0649?pvs=4)
 
 </details>
 
@@ -185,7 +189,11 @@
     - [딥다이브](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_Deep_Dive/#8%EC%A3%BC%EC%B0%A8)
   - 9주차 자료
     - [10장](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_10/)
-    - [11장](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_11/) 
+    - [11장](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_11/)
+  - 10주차 자료
+    - [11장 내용정리](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_11/)
+    - [12장 내용정리](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_CH_12/)
+    - [딥다이브](https://da9dac.github.io/posts/The_Secret_Life_of_Programs_Deep_Dive/#9%EC%A3%BC%EC%B0%A8)
 
 </details>
 
@@ -215,6 +223,7 @@
   - [6주차 자료 - 7장 딥다이브](https://sang989.notion.site/7-273-318-46-1d88a4f192a28065b456de9d3615dffd?pvs=4)
   - [7주차 자료 - 8장 딥다이브](https://sang989.notion.site/8-319-344-26-1df8a4f192a280bc94b6c647cc806dca?pvs=4)
   - [9주차 자료 - 10~11장](https://sang989.notion.site/10-11-1f48a4f192a280c79276e58c84d43d7f?pvs=4)
+  - [10주차 자료](https://sang989.notion.site/12-1fb8a4f192a280c4ab71d4788d699d60?pvs=4)
     
 </details>
 
@@ -233,7 +242,7 @@
 | **7주차** | 4/24 (목) | **8장 프로그래밍 언어 처리 :** 319–344쪽 (26쪽) | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/12) |
 | **8주차** | 5/8 (목) | **9장 웹 브라우저 - 10장 애플리케이션과 프로그래밍 :** 345–390쪽 (46쪽) | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/13) |
 | **9주차** | 5/15 (목) | **10장 애플리케이션과 프로그래밍 - 11장 성능향상을 위한 알고리즘 기법 :** 391–440쪽 (50쪽)   | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/15) |
-| **10주차** |  5/22 (목)  | **11장 성능향상을 위한 알고리즘 기법 - 12장 병렬성과 비동기성 :** 441–486쪽 (46쪽)   | 온라인 | [🔗 링크](#) |
+| **10주차** |  5/22 (목)  | **11장 성능향상을 위한 알고리즘 기법 - 12장 병렬성과 비동기성 :** 441–486쪽 (46쪽)   | 온라인 | [🔗 링크](https://github.com/JAVACAFE-STUDY/2025-Architecture-Programming-Study/issues/16) |
 | **11주차** |  5/29 (목) | **13장 컴퓨터 보안 :** 487–533쪽 (47쪽)   | 온라인 | [🔗 링크](#) |
 | **12주차** | 6/5 (목) | **14장 세상을 바꾸는 기계 지능 - 15장 훌륭한 프로그래머가 되기 위한 팁과 경험담 :** 535–613쪽 (79쪽)  | 온라인 | [🔗 링크](#) |
 | **발표회** | 6/14 (토) | 오프라인 발표회  | 16~18시 예정 | [🔗 링크](#) |
